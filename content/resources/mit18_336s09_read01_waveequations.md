@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_336s09_read01_waveequations.pdf
 uid: d704b9e4-514c-d2c2-2c38-20d0b5605200
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

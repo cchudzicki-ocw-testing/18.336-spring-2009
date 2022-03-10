@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_336s09_read03_levelsetnotes.pdf
 uid: 58fddc2a-47c2-2a27-ff2a-c868cd3160d2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

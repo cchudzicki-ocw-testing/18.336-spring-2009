@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_336s09_read02_pml.pdf
 uid: 3928c649-c9a5-de00-aa73-ee2d9ba9bc4d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

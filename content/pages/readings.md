@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: bad3c0e7-381b-2096-3b6d-fd3c887e2be9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Readings are assigned in the following textbooks:

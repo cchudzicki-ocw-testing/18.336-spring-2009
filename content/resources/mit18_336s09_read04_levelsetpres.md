@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT18_336s09_read04_levelsetpres.pdf
 uid: cac94c72-39a9-2f8c-4242-a4cb540ede35
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

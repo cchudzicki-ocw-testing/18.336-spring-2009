@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: aaa0e947-a6f6-b29c-5225-98b90ee31944
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The assignments use files found in the {{% resource_link 80a41719-c571-5a2d-7b39-ba2514ef5b68 "MATLAB®" %}} section.
